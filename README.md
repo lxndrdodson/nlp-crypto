@@ -8,7 +8,7 @@ There's been a lot of hype in the news lately about cryptocurrency, so you want 
 
 This project required use of natural language processing to analyze the sentiment in the most recent articles about Bitcoin and Ethereum. 
 
-Complete the following tasks:
+The following tasks were completed for this project:
 
 1. [Sentiment Analysis](#Sentiment-Analysis):
     I applied the news api to pull articles about each coin
